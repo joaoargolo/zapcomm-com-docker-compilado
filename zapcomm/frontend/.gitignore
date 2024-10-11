@@ -1,5 +1,8 @@
 node_modules
+public/*
 dist
+!public/.gitkeep
+.env.test
 
 package-lock.json
 yarn.lock
